@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+    /* border-bottom: 1px solid; */
+    color: white;
+}
+
+.content{
+    min-height: 580px;
+    padding: 20px;
+}
+
+.sider{
+    background-color: white;
+    padding: 10px;
+}
+
+.footer{
+    border-top: 1px solid;
+    text-align: center;
+    background-color: #434343;
+    color: white;
+    font-size: 12px;
+    min-height: 188px;
+    padding: 8px 188px;
+}

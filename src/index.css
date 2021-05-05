@@ -1,13 +1,67 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* nav {
+    border: 1px solid;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 80px;
 }
+
+.logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 80px;
+    float: left;
+}
+.logo a { 
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background-color: cadetblue;
+}
+
+.search {
+    position: absolute;
+
+}
+
+.input{
+    border: 1px solid black;
+    width: 300px;
+    margin: 0 auto;
+    padding: 0 10px;
+    height: 34px;
+    border-radius: 2px;
+}
+
+.route {
+
+} */
+
+
+/* #components-layout-demo-top-side .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  } */
