@@ -1,0 +1,15 @@
+
+#normal_login {
+    position: absolute;
+    width: 450px;
+    top: 30%;
+    left: 35%;
+}
+
+.forgot_password .ant-col{
+    text-align: right;
+
+}
+.login-form-button{
+    margin-left: 8%;
+}

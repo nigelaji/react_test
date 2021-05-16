@@ -1,0 +1,27 @@
+.home-content{
+    padding: 28px 188px;
+    .content-up{
+        box-sizing: border-box;
+        height: 80px;
+        border: 1px solid;
+        padding: 3px;
+        margin-bottom: 18px;
+        .default-tag{
+            display: inline-block;
+            border: none;
+            font-size: 16px;
+            &:hover{
+                background-color: black;
+                color: white;
+                font-size: 18px
+            }
+        }
+    }
+    .content-down{
+        box-sizing: border-box;
+        border: 1px solid;
+    }
+}
+
+
+

@@ -1,0 +1,22 @@
+.feature{
+    padding: 28px 168px;
+    display: flex;
+    // flex-wrap: nowrap;
+    flex-wrap: wrap;
+    // orphans: 1;
+    // widows: 1;
+}
+.ant-card{
+    display: inline-block;
+    margin: 10px 10px;
+    flex-basis: 275px;
+    height: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+
+
+.ant-card-head{
+    border-bottom: none;
+}
